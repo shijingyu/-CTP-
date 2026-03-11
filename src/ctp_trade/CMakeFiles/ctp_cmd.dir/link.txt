@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/ctp_cmd.dir/ctp_trade_handler.cpp.o CMakeFiles/ctp_cmd.dir/main.cpp.o  -o ../../bin/ctp_cmd   -L/home/ubuntu/ctp-master/lib  -Wl,-rpath,/home/ubuntu/ctp-master/lib -lthosttraderapi_se 
